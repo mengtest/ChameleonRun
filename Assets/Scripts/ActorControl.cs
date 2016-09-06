@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Chameleon : MonoBehaviour {
+public class ActorControl : MonoBehaviour {
 
 
 	// Use this for initialization
